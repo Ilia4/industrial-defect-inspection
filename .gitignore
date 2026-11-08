@@ -5,6 +5,7 @@ __pycache__/
 
 HEAD/
 main.py
+test/
 
 .idea/
 .vscode/
