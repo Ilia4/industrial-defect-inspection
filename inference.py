@@ -27,7 +27,7 @@ image_transform = transforms.Compose([
     transforms.ToTensor()
 ])
 
-image = Image.open("./HEAD/Test/OK/OK-12.BMP").convert("RGB")
+image = Image.open("./test/ng_003.jpg").convert("RGB")
 image_tensor = image_transform(image)
 
 image_tensor = image_tensor.unsqueeze(0)

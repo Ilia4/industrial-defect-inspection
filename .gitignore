@@ -6,6 +6,9 @@ __pycache__/
 HEAD/
 main.py
 test/
+real_data/
+validation/
+models/defect_cnn_finetuned.pth
 
 .idea/
 .vscode/
